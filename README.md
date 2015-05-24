@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science course project
+The Data Scientist's Toolbox course project
